@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Score Keeper NA</string>
+    <string name="total_foul_0">Total Foul : 0</string>
+    <string name="foul_1">Foul! (-1)</string>
+    <string name="score_1">Score! (+1)</string>
+    <string name="away">Away</string>
+    <string name="home">Home</string>
+    <string name="reset">Reset</string>
+    <string name="score_1b">Score! (+1)</string>
+    <string name="_0">0</string>
+</resources>
